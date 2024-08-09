@@ -7,7 +7,10 @@
 	allowed_races = list(
 		"Humen",
 		"Tiefling",
-		"Aasimar"
+		"Aasimar",
+		"Dwarf",
+		"Half-Elf",
+		"Dark Elf"
 	)
 	outfit = /datum/outfit/job/roguetown/adventurer/templar
 	maxchosen = 1

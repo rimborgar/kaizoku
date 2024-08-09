@@ -406,4 +406,8 @@
 	eye_icon_state = "eyes_tengu"
 	icon_state = "eyes_tengu"
 
-
+/obj/item/organ/eyes/goblin
+	name = "goblin eyes"
+	desc = ""
+	eye_icon_state = "eyes_goblin"
+	icon_state = "eyes_goblin"
